@@ -1,5 +1,4 @@
-- 👋 Hello, I'm Elijah from Russia, and this is my efforts to write something useful for society.
-- 👀 I’m interested in programming, sports (beach volley, crossfit)
-- 🌱 I’m currently learning how to become a rockstar architect
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hello, I'm Ilia from Russia, and this is my efforts to create something useful for society.
+- 👀 I’m fond of IT, beach volley, crossfit
+- 🌱 Learn the art of being software engineer, desire to become a rockstar architect
 - 📫 You could find me in tg: ifowzy
