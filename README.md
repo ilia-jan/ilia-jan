@@ -1,4 +1,5 @@
-- 👋 Hello, I'm Ilia from Russia, and this is my efforts to create something useful for society.
-- 👀 I’m fond of IT, beach volley, crossfit
-- 🌱 Learn the art of being software engineer, desire to become a rockstar architect
-- 📫 You could find me in tg: ifowzy
+👴 Ilia, 33 y.o., from Russia
+💻 Software Engineer (.Net C#)
+🏐 Amateur Volleyball player
+🏋️ Junior Crossfit Athlete
+📫 tlg: ifowzy
